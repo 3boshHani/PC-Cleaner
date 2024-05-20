@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ShKRrpPNbyAsbV9JYTB7FrnUym+iLF1HJjdXMD8j+u2wEGpQpktzsL2iG6JaQCrMl8VDdbgtSlkXs6hFwrQcmA==",
+  "success": true,
+  "projectFilePath": "G:\\Abdo Data\\Programing\\Projects\\Project 11 (C#)\\PCCleaner\\PCCleaner\\PCCleaner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Omar\\.nuget\\packages\\ilmerge\\3.0.41\\ilmerge.3.0.41.nupkg.sha512",
+    "C:\\Users\\Omar\\.nuget\\packages\\spectre.console\\0.49.1\\spectre.console.0.49.1.nupkg.sha512"
+  ],
+  "logs": []
+}

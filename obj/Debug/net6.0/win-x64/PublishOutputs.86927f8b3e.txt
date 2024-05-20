@@ -1,0 +1,2 @@
+G:\Abdo Data\Programing\Projects\Project 11 (C#)\PCCleaner\PCCleaner\bin\Debug\net6.0\publish\win-x64\PCCleaner.pdb
+G:\Abdo Data\Programing\Projects\Project 11 (C#)\PCCleaner\PCCleaner\bin\Debug\net6.0\publish\win-x64\PCCleaner.exe

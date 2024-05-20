@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <ApplicationIcon>c.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="c.ico" />
+  </ItemGroup>
+	<ItemGroup>
+		<PackageReference Include="ilmerge" Version="3.0.41" />
+		<PackageReference Include="Spectre.Console" Version="0.49.1" />
+	</ItemGroup>
+
+</Project>
